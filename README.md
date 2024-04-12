@@ -12,4 +12,4 @@ Converts an entire folder of images to webp.
 
 `node . <FOLDER_PATH>`
 
-All images in that folder will be placed in a folder called "converted" in that target folder.
+All converted (webp) images in that folder will be placed in a folder called "converted" in that target folder.
